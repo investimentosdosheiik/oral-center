@@ -1,0 +1,5 @@
+- [x] Force the clinic's light palette despite inherited dark mode.
+- [x] Refine the header, hero, cards, sections and mobile spacing.
+- [x] Save exact supplied instruments bytes and create a separate structure gallery with working photos.
+- [x] Add instruments to the gallery using the complete replacement WebP, validated and preserved without recoding or cropping.
+- [x] Verify desktop/mobile rendering, images, navigation and build status.
